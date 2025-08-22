@@ -1,4 +1,4 @@
-<caption>Computer Graphics</caption>
+<h1>Computer Graphics</h1>
 <h2>Lab Question</h2>
 <ol type='i'>
 <li> Implement the Cohen-Sutherland Line Clipping algorithm</li>
